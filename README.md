@@ -1,6 +1,13 @@
-# Online Judgement System(updating)
+**OJ System** (Online Judgement System) is a web-based platform designed to provide an efficient and scalable solution for automating coding challenges and evaluations. The system allows users to submit code solutions, which are then automatically judged against predefined test cases to ensure correctness and efficiency.
 
-This is an Online Judgement (OJ) system for coding challenges and evaluations, mimicing Leetcode. The project consists of three main components: backend, frontend, and the CodeSandbox, each serving a specific purpose in the overall functionality of the system.
+**Status**: Still Updating
+
+## Features
+
+- **Online Code Submission**: Users can submit their code in multiple programming languages.
+- **Automated Judging**: Submitted solutions are automatically evaluated using predefined test cases.
+- **Score and Feedback**: feedback on code submissions, with detailed error reporting and scoring.
+- **User Management**: Separate user accounts for administrators, participants, and problem setters.
 
 ## Project Structure
 
