@@ -1,0 +1,6 @@
+server:
+  port: 8090
+#Spring:
+#  datasource:
+#    password: 123456
+
