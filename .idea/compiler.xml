@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="yuoj-backend-judge-service" />
+        <module name="yuoj-backend-user-service" />
+        <module name="yuoj-backend-common" />
+        <module name="yuoj-backend-question-service" />
+        <module name="yuoj-backend-gateway" />
+        <module name="yuoj-backend-service-client" />
+        <module name="yuoj-backend-model" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
